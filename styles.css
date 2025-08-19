@@ -27,3 +27,17 @@ svg {
   max-width: 100%;
   display: block;
 }
+
+/* ### UTILITY CLASSES ### */
+
+.text-dark {
+  color: var(--blue-950);
+}
+
+.text-light {
+  color: var(--gray-400);
+}
+
+.hide {
+  display: none;
+}
