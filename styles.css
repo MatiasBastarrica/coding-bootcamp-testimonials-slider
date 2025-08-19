@@ -41,3 +41,22 @@ svg {
 .hide {
   display: none;
 }
+
+/* ### GENERAL STYLING ### */
+
+body {
+  font-family: var(--ff-inter);
+  font-weight: var(--fw-300);
+}
+
+h2 {
+  font-weight: var(--fw-700);
+}
+
+p {
+  font-weight: var(--fw-500);
+}
+
+blockquote {
+  color: #37354a;
+}
