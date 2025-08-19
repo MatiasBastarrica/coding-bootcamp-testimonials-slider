@@ -10,3 +10,20 @@
   --fw-500: 500;
   --fw-700: 700;
 }
+
+/* ### CSS RESET ### */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+picture,
+img,
+svg {
+  max-width: 100%;
+  display: block;
+}
