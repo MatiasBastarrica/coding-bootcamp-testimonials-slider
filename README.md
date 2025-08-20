@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-mb-TVhfmY4Crw)
 - Live Site URL: [Live](https://matiasbastarrica.github.io/coding-bootcamp-testimonials-slider/)
 
 ## My process
